@@ -1,0 +1,17 @@
+
+header {
+  background-color: #c0392b !important;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.error {
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Slabo 27px', serif;
+  color: #CF000F;
+  font-size: 5vw;
+}

@@ -1,0 +1,11 @@
+<Context reloadable="true">
+    <Resource name="jdbc/Supermercado"
+              auth="Container"
+              type="javax.sql.DataSource"
+              username="16_comweb_02"
+              password="Rmeumyl2"
+              driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://mysql.lab.it.uc3m.es/16_comweb_02c"
+              maxActive="8"
+              maxIdle="4"/>
+</Context>
