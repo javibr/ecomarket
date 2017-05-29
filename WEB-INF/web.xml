@@ -4,7 +4,7 @@
       Resource reference to a factory for java.sql.Connection
       instances that may be used for talking to a particular
       database that is configured in the Context
-      configurartion for the web application.
+      configurartion for the web application .
     </description>
     <res-ref-name>
       jdbc/Supermercado
